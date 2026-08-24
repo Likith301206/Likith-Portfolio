@@ -1,17 +1,17 @@
-# 🚀 Personal Portfolio
+ 🚀 Personal Portfolio
 
 Welcome to my personal portfolio website!
 This portfolio showcases my **skills, projects, certifications, education, and journey as a Computer Science Engineering student**.
 
 It is designed with a modern, responsive, and professional interface to provide a clear overview of my technical skills and projects.
 
-## 🌐 Live Portfolio
+ 🌐 Live Portfolio
 
 🔗 **[View My Portfolio](https://sai-kushal-portfolio.vercel.app/)**
 
 ---
 
-## 👨‍💻 About Me
+ 👨‍💻 About Me
 
 I am a **Computer Science Engineering student** passionate about software development, Python, web technologies, databases, and Artificial Intelligence.
 
@@ -21,30 +21,29 @@ My goal is to grow as a software engineer by working on real-world projects and 
 
 ---
 
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
-### Programming
+ Programming
 
 * 🐍 Python
-* ☕ Java
 * 🌐 HTML
 * 🎨 CSS
 * ⚡ JavaScript
 
-### Backend & Database
+ Backend & Database
 
 * Flask
 * SQLite
 * MySQL
 
-### Tools & Platforms
+ Tools & Platforms
 
 * Git
 * GitHub
 * VS Code
 * Vercel
 
-### Currently Exploring
+ Currently Exploring
 
 * 🤖 Artificial Intelligence
 * 🧠 Large Language Models (LLMs)
@@ -54,32 +53,9 @@ My goal is to grow as a software engineer by working on real-world projects and 
 
 ---
 
-## 📂 Featured Projects
+ 📂 Featured Projects
 
-### 🚌 Bus Reservation System
-
-A web-based bus reservation system designed to allow users to select seats, make reservations, and generate a downloadable ticket.
-
-**Technologies:**
-
-* HTML
-* CSS
-* JavaScript
-* Python
-* Flask
-* SQLite
-
-**Key Features:**
-
-* 🚌 Bus reservation interface
-* 💺 Seat selection
-* 🎫 Ticket generation
-* 📥 Downloadable ticket
-* 📱 Responsive interface
-
----
-
-### 🛡️ Security Log Analyzer
+ 🛡️ Security Log Analyzer
 
 A database-driven security monitoring project designed to manage devices, activity logs, and potential security threats.
 
@@ -102,7 +78,7 @@ A database-driven security monitoring project designed to manage devices, activi
 
 ---
 
-## 📜 Certifications
+ 📜 Certifications
 
 The portfolio includes certifications and achievements obtained through various learning platforms, workshops, and technical programs.
 
@@ -110,7 +86,7 @@ These certifications represent my continuous effort to improve my technical know
 
 ---
 
-## 🎯 Current Learning Goals
+🎯 Current Learning Goals
 
 I am continuously expanding my technical skills and currently focusing on:
 
@@ -127,7 +103,7 @@ I am continuously expanding my technical skills and currently focusing on:
 
 ---
 
-## 📈 My Development Journey
+📈 My Development Journey
 
 ```text
 Programming Fundamentals
@@ -153,7 +129,7 @@ Programming Fundamentals
 
 ---
 
-## ✨ Portfolio Features
+✨ Portfolio Features
 
 * 🌌 Modern UI
 * 📱 Responsive design
@@ -168,7 +144,7 @@ Programming Fundamentals
 
 ---
 
-## 📁 Project Structure
+📁 Project Structure
 
 ```text
 portfolio/
@@ -187,7 +163,7 @@ portfolio/
 
 ---
 
-## 🚀 Running Locally
+ 🚀 Running Locally
 
 Clone the repository:
 
@@ -207,7 +183,7 @@ No backend setup is required for the portfolio website.
 
 ---
 
-## 📸 Screenshots
+📸 Screenshots
 
 Add screenshots of your portfolio here to give visitors a quick preview of the website.
 
@@ -222,7 +198,7 @@ Add screenshots of your portfolio here to give visitors a quick preview of the w
 
 ---
 
-## 🔮 Future Improvements
+🔮 Future Improvements
 
 Some planned improvements include:
 
@@ -235,7 +211,7 @@ Some planned improvements include:
 
 ---
 
-## 🤝 Connect With Me
+🤝 Connect With Me
 
 If you are interested in my projects, learning journey, or collaboration opportunities, feel free to connect with me through the social links available on my portfolio.
 
@@ -244,7 +220,7 @@ https://sai-kushal-portfolio.vercel.app/
 
 ---
 
-## ⭐ Support
+⭐ Support
 
 If you find this portfolio interesting, consider giving the repository a ⭐.
 
@@ -252,6 +228,6 @@ Thanks for visiting! 🚀
 
 ---
 
-### 👨‍💻 Built With Passion & Continuous Learning
+👨‍💻 Built With Passion & Continuous Learning
 
 **© 2026 — Personal Portfolio**
