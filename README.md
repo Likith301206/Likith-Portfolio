@@ -7,7 +7,7 @@ It is designed with a modern, responsive, and professional interface to provide 
 
  🌐 Live Portfolio
 
-🔗 **[View My Portfolio](https://sai-kushal-portfolio.vercel.app/)**
+🔗 **[View My Portfolio](https://likiths.vercel.app/)**
 
 ---
 
@@ -216,8 +216,7 @@ Some planned improvements include:
 If you are interested in my projects, learning journey, or collaboration opportunities, feel free to connect with me through the social links available on my portfolio.
 
 🌐 **Portfolio:**
-https://sai-kushal-portfolio.vercel.app/
-
+https://likiths.vercel.app/
 ---
 
 ⭐ Support
